@@ -1,0 +1,11 @@
+p{
+    text-align:center;
+} 
+h1{
+    text-align:center;
+    font-family: 'Anton', sans-serif;
+}
+body{
+    background-color:purple;
+    background: url("https://image.redbull.com/rbcom/052/2017-05-08/43f17f1b-fcaf-4094-bdf2-d1a399ebfaea/0010/1/1500/1000/1/popcaan.jpg");
+}
